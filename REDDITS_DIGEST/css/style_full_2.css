@@ -70,7 +70,7 @@ p:hover {
     }
 
 
-a.userlink {
+a#userlink {
     text-decoration: none;
     color: #a2a2a2;
     font-weight: normal;
