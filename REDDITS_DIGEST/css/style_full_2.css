@@ -53,6 +53,12 @@ a.post_body {
     font-weight: normal;
 }
 
+a.userlink {
+    text-decoration: none;
+    color: #1FD2FF;
+    font-weight: normal;
+}
+
 p {
     padding-bottom:0px;
     font-size:.7em;
@@ -67,8 +73,4 @@ p:hover {
     }
 
 
-a.userlink {
-    text-decoration: none;
-    color: #1FD2FF;
-    font-weight: normal;
-}
+
