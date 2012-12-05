@@ -91,12 +91,9 @@ function callback(data) {
 $(document).ready(function() {
 
     $('p').on('hover', function(e) {
-        // if ($('#theme_options').is(':hidden')) {
-        //     $('#theme_options').fadeIn(200);
-
-        //     $('#theme_closer').fadeIn(200);
-        // }
-        console.log("wrar");
+        $(this).animate({ backgroundColor: "#384041" }, 1000);
+    },function() {
+        $(this).animate({ backgroundColor: "#313131" }, 500);
     });
 
 
