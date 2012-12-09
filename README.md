@@ -1,7 +1,7 @@
 ITERATIONS
 ==========
 
-keeping track of a disparate collection of js/jquery/ds experiments.
+keeping track of a disparate collection of js/jquery/d3 experiments.
 
 ###Reddit's Digest
 
