@@ -5,7 +5,7 @@ keeping track of a disparate collection of js/jquery/d3 experiments.
 
 ###Reddit's Digest
 
-[html preview here](http://htmlpreview.github.com/?https://github.com/zeffii/ITERATIONS/blob/master/REDDITS_DIGEST/strip_up_stats_04.html)
+[html preview here](http://htmlpreview.github.com/?https://github.com/zeffii/ITERATIONS/blob/master/REDDITS_DIGEST/strip_up_stats_04b.html)
 Uses handlebars.js, jquery, a json callback, and google webfonts.
 
 Since this initial repo was started a lot has been coded, some of it suitable for sharing can be found on tributary: http://tributary.io/inlet/5280281
